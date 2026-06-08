@@ -1,6 +1,8 @@
 # Fair Reinforcement Learning for Just AI
 
-**ICLR 2026**
+## Published at ICLR 2026
+
+### Ezgi Korkmaz
 
 Currently the most powerful AI systems are aligned with human values via reinforcement learning from human feedback. Yet, reinforcement learning from human feedback models human preferences as noisy samples from a single linear ordering of shared human values and is unable to incorporate democratic AI alignment. In
 particular, the standard approach fails to represent and reflect diverse and conflicting perspectives of human values. Recent research introduced the theoretically principled notion of quantile fairness for training a reinforcement learning policy
