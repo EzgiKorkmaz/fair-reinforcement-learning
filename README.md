@@ -31,3 +31,13 @@ optimization is possible.
 * 🚀 **Orders of Magnitude Faster:** Drastically reduces sample complexity and orders of magnitude more efficient with respect to computation compared to prior tabular methods.
 
 ---
+
+
+```
+@article{korkmaziclr26,
+    title={Fair Reinforcement Learning for Just AI},
+    author={Ezgi Korkmaz},
+    journal={International Conference on Learning Representations, ICLR},
+    year={2026}
+}
+```
